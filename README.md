@@ -4,6 +4,8 @@ Free, best practice document templates as used in Documize.
 
 ##General Business
 
+[Statement of Work](general-business/statement-of-work.md) [(DOCX)](https://github.com/documize/document-templates/raw/master/general-business/statement-of-work.docx)
+
 [Non Disclosure Agreement](general-business/basic-nda.md) [(DOCX)](https://github.com/documize/document-templates/raw/master/general-business/basic-nda.docx)
 
 ## Project Management
