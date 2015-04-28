@@ -2,6 +2,10 @@
 
 Free, best practice document templates as used in Documize.
 
+##General Business
+
+[Non Disclosure Agreement](general-business/basic-nda.md) [(DOCX)](https://github.com/documize/document-templates/raw/master/general-business/basic-nda.docx)
+
 ## Project Management
 
 Capture business requirements for a sizeable project where you need to involve multiple stakeholders.
