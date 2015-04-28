@@ -2,8 +2,6 @@
 | -----------------|:--------------:|:---------------------:|
 | Initials or name | Date modified  | Reason for revision |
 | Initials or name | Date modified  | Reason for revision |
-| Initials or name | Date modified  | Reason for revision |
-| Initials or name | Date modified  | Reason for revision |
 		| Start Date | End Date    | Project Manager | Client      |
 | :---------:|:-----------:| :--------------:| ------------|
 |dd-mon-yyyy	|dd-mon-yyyy  | Initials| Client/Stakeholders |
